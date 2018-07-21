@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Gradle temporary files
+target/
+build/
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
